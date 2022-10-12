@@ -1,6 +1,8 @@
+main {
+  background-color: #3b83bd;
+}
+
 header,footer {
-  font-family: 'Times New Roman', Times, serif;
-  background-color: grey;
   color: white;
 }
 
